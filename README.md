@@ -1,4 +1,4 @@
-# UpdateConexantISSTDriver
+# Update Conexant ISST Driver
 
 C# program to update the Conexant ISST Driver via Windows Update. 
 
