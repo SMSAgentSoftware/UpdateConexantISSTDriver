@@ -16,4 +16,4 @@ This program must run with administrative privege or in SYSTEM context and does 
 
 A reboot is usually required and the driver will usually display a small one-time toast notification advising the user to restart.
 
-You can clone the solution in Visual Studio and build your own executable or download the package containing it.
+You can clone the solution in Visual Studio and build your own executable or download the current release.
