@@ -17,3 +17,5 @@ This program must run with administrative privege or in SYSTEM context and does 
 A reboot is usually required and the driver will usually display a small one-time toast notification advising the user to restart.
 
 You can clone the solution in Visual Studio and build your own executable or download the current release.
+
+Read more on my blog: https://smsagent.blog/2021/02/17/windows-10-upgrades-dealing-with-safeguard-id-25178825-conexant-isst-driver/
